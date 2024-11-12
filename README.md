@@ -69,6 +69,7 @@ cd ETL_toll
 3. Run the Apache Airflow web server and scheduler (ensure Airflow is configured):
 airflow webserver -p 8080 airflow scheduler
 4. Trigger the `ETL_toll_data` DAG in the Airflow UI to start the ETL process.
+<img width="1433" alt="Screenshot 2024-11-12 at 10 45 21" src="https://github.com/user-attachments/assets/b727f6de-2a5b-4c32-afe5-2871ec0f443e">
 
 ## Author
 
