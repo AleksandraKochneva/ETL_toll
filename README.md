@@ -1,4 +1,4 @@
-# ETL Toll Data Project
+# Creating ETL Data Pipelines using Apache Airflow
 
 This project is part of the **final project from the IBM ETL and Data Pipelines with Shell, Airflow, and Kafka** course. The goal of this project is to **collect and consolidate road traffic data** from different toll plazas into a single file for analysis. Since each highway is operated by a different toll operator with varying IT setups, the data comes in different file formats. This ETL pipeline automates the extraction, transformation, and loading of the toll data to enable traffic analysis that helps de-congest national highways.
 
